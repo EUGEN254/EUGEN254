@@ -24,8 +24,11 @@ My Tech Stack 💻
 Let's Connect! 🌐
 
   LinkedIn: https://www.linkedin.com/in/eugen-bitinyo-b265bb2b0
+  
   Portfolio: https://eugen-shitera-bitinyo.vercel.app/
+  
   Email: bitinyoeugen@gmail.com
+  
 
 Fun Facts 🎉
   
