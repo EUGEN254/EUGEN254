@@ -17,8 +17,11 @@ Current Projects 🚀
 My Tech Stack 💻
 
   Frontend: React, JavaScript, TypeScript, HTML5, CSS3, Tailwind
+  
   Backend: Node.js, Express, REST APIs
+  
   Databases: MongoDB, MySQL
+  
   Tools & Platforms: Git, Vercel, VS Code
 
 Let's Connect! 🌐
