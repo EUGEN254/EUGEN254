@@ -23,9 +23,9 @@
   <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
 </p>
 
-#### 🔹 Backend & APIs
+#### 🔹 Backend 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python," />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 #### 🔹 Databases
