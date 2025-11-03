@@ -50,15 +50,7 @@ A platform that connects customers with trusted local service providers.
 🔗 **Live Demo:** https://local-service-system.vercel.app/  
 
 
----
-
-### 🔥 GitHub Stats
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=EUGEN254&show_icons=true&theme=tokyonight" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=EUGEN254&theme=tokyonight" />
-</p>
-
----
+-
 
 ### 🌐 Connect With Me
 <p>
