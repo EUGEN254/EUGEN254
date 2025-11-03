@@ -48,7 +48,7 @@ A platform that connects customers with trusted local service providers.
 ✔ Real-Time Booking & Ratings  
 
 🔗 **Live Demo:** https://local-service-system.vercel.app/  
-📂 **Repository:** [github.com/EUGEN254/…](https://github.com/EUGEN254)  
+
 
 ---
 
