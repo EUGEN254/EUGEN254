@@ -48,14 +48,14 @@ A platform that connects customers with trusted local service providers.
 ✔ Real-Time Booking & Ratings  
 
 🔗 **Live Demo:** _coming soon_  
-📂 **Repository:** (Add GitHub repo link here)
+📂 **Repository:** [github.com/EUGEN254/…](https://github.com/EUGEN254)  
 
 ---
 
 ### 🔥 GitHub Stats
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=eugen-bitinyo&show_icons=true&theme=tokyonight" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=eugen-bitinyo&theme=tokyonight" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=EUGEN254&show_icons=true&theme=tokyonight" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=EUGEN254&theme=tokyonight" />
 </p>
 
 ---
