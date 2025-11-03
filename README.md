@@ -20,7 +20,7 @@
 
 #### 🔹 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
 </p>
 
 #### 🔹 Backend & APIs
