@@ -1,43 +1,79 @@
-Hi there, I'm Eugene! 👋
+<h1 align="center">Hi 👋, I'm Eugen Shitera Bitinyo</h1>
+<h3 align="center">Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
-  Welcome to my GitHub profile! I'm a passionate software developer, tech enthusiast, and problem solver who loves turning complex challenges into elegant solutions.
-  I enjoy building products that make a difference and continuously expanding my skills in the ever-evolving tech landscape.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&lines=Software+Developer;Full+Stack+Web+Developer;Always+Learning+New+Things;Turning+Ideas+into+Real+Projects!">
+</p>
 
-What I Do 🛠️
+---
 
-  Full-Stack Development: Building robust and scalable applications from front-end to back-end using React, Node.js, Python, and modern database technologies.
-  Open Source Contributions: Actively contributing to projects that solve real-world problems and help the developer community grow.
-  Continuous Learning: Always diving into new technologies and methodologies to stay at the forefront of software development.
+### 🚀 About Me
+- 💡 I build scalable and efficient full-stack applications  
+- 🌍 Passionate about tech that solves real-world problems  
+- 📚 Currently leveling up on: **React Native & System Architecture**  
+- 🤝 Open to collaboration and exciting engineering opportunities  
+- ✨ Crafting solutions that make a difference  
 
-Current Projects 🚀
-  
-  Local Service System: A full-stack web application that connects customers with local service providers. 
-  Features include an Admin Dashboard, Customer Portal, and Service Provider Portal to streamline local service management and bookings.
+---
 
-My Tech Stack 💻
+### 🛠 Tech Stack
 
-  Frontend: React, JavaScript, TypeScript, HTML5, CSS3, Tailwind
-  
-  Backend: Node.js, Express, REST APIs
-  
-  Databases: MongoDB, MySQL
-  
-  Tools & Platforms: Git, Vercel, VS Code
+#### 🔹 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind" />
+</p>
 
-Let's Connect! 🌐
+#### 🔹 Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
+</p>
 
-  LinkedIn: https://www.linkedin.com/in/eugen-bitinyo-b265bb2b0
-  
-  Portfolio: https://eugen-shitera-bitinyo.vercel.app/
-  
-  Email: bitinyoeugen@gmail.com
-  
+#### 🔹 Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-Fun Facts 🎉
-  
-  I'm currently deep-diving into React Native for mobile development
-  When I'm not coding, you can find me reading novels and exploring different literary worlds
-  I believe in the power of open source and love contributing to meaningful projects
-  Always excited to collaborate and learn from fellow developers
+#### 🔹 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman" />
+</p>
 
-Thanks for stopping by! Feel free to explore my repositories, open issues, or start a conversation. I'm always excited to collaborate on interesting projects and connect with fellow developers. Let's build something amazing together! ✨
+---
+
+### 📌 Featured Project – Local Service System
+A platform that connects customers with trusted local service providers.
+
+✔ Admin Dashboard  
+✔ Customer & Provider Portals  
+✔ Real-Time Booking & Ratings  
+
+🔗 **Live Demo:** _coming soon_  
+📂 **Repository:** (Add GitHub repo link here)
+
+---
+
+### 🔥 GitHub Stats
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=eugen-bitinyo&show_icons=true&theme=tokyonight" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=eugen-bitinyo&theme=tokyonight" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+<p>
+  <a href="https://www.linkedin.com/in/eugen-bitinyo-b265bb2b0"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="mailto:bitinyoeugen@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  <a href="https://eugen-shitera-bitinyo.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" height="40" /></a>
+</p>
+
+---
+
+### 🎉 Fun Facts
+- I’m always reading novels 📚  
+- Tech + Creativity = My happy place  
+- I believe in collaboration and open-source 💛  
+
+---
+
+⭐ **Thanks for visiting!** Feel free to explore my repositories and drop a star ⭐ if you like something!
