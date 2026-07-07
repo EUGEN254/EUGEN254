@@ -38,20 +38,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman" />
 </p>
 
----
-
-### 📌 Featured Project – Local Service System
-A platform that connects customers with trusted local service providers.
-
-✔ Admin Dashboard  
-✔ Customer & Provider Portals  
-✔ Real-Time Booking & Ratings  
-
-🔗 **Live Demo:** https://local-service-system.vercel.app/  
-
-
--
-
 ### 🌐 Connect With Me
 <p>
   <a href="https://www.linkedin.com/in/eugen-bitinyo-b265bb2b0"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
@@ -59,13 +45,5 @@ A platform that connects customers with trusted local service providers.
   <a href="https://eugen-shitera-bitinyo.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" height="40" /></a>
 </p>
 
----
-
-### 🎉 Fun Facts
-- I’m always reading novels 📚  
-- Tech + Creativity = My happy place  
-- I believe in collaboration and open-source 💛  
-
----
 
 ⭐ **Thanks for visiting!** Feel free to explore my repositories and drop a star ⭐ if you like something!
